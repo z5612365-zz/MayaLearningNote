@@ -44,8 +44,8 @@ When grab an area, Selection tool would select "every component" in the area com
 
 ### Paint selection tool
 only select the component that camera can see.
-Press ctrl to deselect.
-Press B+Left mouse button+move: set brush size
+* Press ctrl to deselect.
+* Press B+Left mouse button+move: set brush size
 
 
 ========
