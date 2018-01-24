@@ -9,7 +9,20 @@ https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhe
 * Alt+Middle mouse button: Track Tool (press and release)
 * Alt+Right mouse button: Dolly Tool (press and release)
 
-* F: Put selected object center in view 
-* A: Show all object
+* F(Focus): Put selected object center in view 
+* A(All): Show all object
 
 * space: Switch to four views (top, front, side and perspective)
+
+## Viewport shading
+* 4: Wireframe display
+* 5: Shaded display
+* 6: Shaded display(with texture maps)
+
+* 7: All lighting option on
+
+## Selection mode
+* shift+Left mouse button: Select object
+* ctrl+Left mouse button: Deselect object
+
+
