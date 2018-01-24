@@ -12,3 +12,4 @@ https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhe
 * F: Put selected object center in view 
 * A: Show all object
 
+* space: Switch to four views (top, front, side and perspective)
