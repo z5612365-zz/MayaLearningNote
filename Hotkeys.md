@@ -21,6 +21,10 @@ https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhe
 
 * 7: All lighting option on
 
+* click object + 1: polygon preview
+* click object + 3: polygon smooth preview
+
+
 ## Tranform Tools
 * Q: Select
 * W: Move
