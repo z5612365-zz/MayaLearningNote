@@ -61,5 +61,12 @@ When Object rotate, Object axis would rotate at the same time in **Object orient
 W+Left mouse button+target object: can set orientation
 
 
+==============
+
+
+* Hide the selected objects: Ctrl + H
+* Show a specific hidden object: Shift + H
+
+
 
 
