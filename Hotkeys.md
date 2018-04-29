@@ -64,9 +64,9 @@ W+Left mouse button+target object: can set orientation
 ==============
 
 
-* Hide the selected objects: Ctrl + H
-* Show a specific hidden object: Shift + H
+* Ctrl + H: Hide the selected objects
+* Shift + H: Show a specific hidden object
 
-
+* Alt + B: Change the scene view background color
 
 
