@@ -68,5 +68,5 @@ W+Left mouse button+target object: can set orientation
 * Shift + H: Show a specific hidden object
 
 * Alt + B: Change the scene view background color
-
+* Tab(hold down): Drag mode
 
