@@ -69,4 +69,4 @@ W+Left mouse button+target object: can set orientation
 
 * Alt + B: Change the scene view background color
 * Tab(hold down): Drag mode
-
+* Ctrl+1: Only show the selected object
