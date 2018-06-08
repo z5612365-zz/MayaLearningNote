@@ -71,5 +71,5 @@ When Object rotate, Object axis would rotate at the same time in **Object orient
 * Tab(hold down): Drag mode
 * [Ctrl+1]: Only show the selected object
 
-* select vertices -> [Shift+>]: select vertices around the selected vertices
+* select vertices(faces) -> [Shift+>]: select vertices(faces) around the selected vertices(faces)
 
